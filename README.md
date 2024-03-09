@@ -1,4 +1,4 @@
-# <p align="center">بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
+
 # <p align="center">![JWS Fullscreen Tinker-240p](https://github.com/chatGaPenTing/JWS-LCD-16x2-v1.0/assets/161785031/f6aeac52-6d8a-4f4c-aaec-869a1f0dbf4e)
 </p>
 
